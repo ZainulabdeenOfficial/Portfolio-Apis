@@ -1,11 +1,11 @@
 # Test SQL Server Connection
 # Run this script to verify if the database connection is working
 
-$connectionString = "Server=db41604.databaseasp.net;Database=db41604;User Id=db41604;Password=8Xk_@c5AwQ-7;Encrypt=False;MultipleActiveResultSets=True;TrustServerCertificate=True"
+$connectionString = "sfhoshoshsfiohsoihsdfoishfiosdfhiosfhs"
 
 Write-Host "Testing SQL Server Connection..." -ForegroundColor Cyan
-Write-Host "Server: db41604.databaseasp.net" -ForegroundColor Yellow
-Write-Host "Database: db41604" -ForegroundColor Yellow
+Write-Host "Server: tdgd" -ForegroundColor Yellow
+Write-Host "Database: gtrfdg" -ForegroundColor Yellow
 Write-Host ""
 
 try {
